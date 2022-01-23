@@ -15,3 +15,34 @@ Property | Description | Type | Default
 **autoRotate** | - | boolean | -
 **allowPlayer** | - | boolean | -
 **isEdition** | - | boolean | -
+
+------
+
+**ClipFace**
+
+Property | Description | Type | Default
+--- | --- | --- | ---
+**data** | - | any | -
+**layoutStyleCls** | - | any | -
+**onImageClick** | - | () => void | -
+**isEdition** | - | boolean | -
+
+------
+
+**DescriptionFace**, **ProvenanceFace**, **VideoInfoFace**
+
+Property | Description | Type | Default
+--- | --- | --- | ---
+**data** | - | any | -
+
+------
+
+**VideoFace**
+
+Property | Description | Type | Default
+--- | --- | --- | ---
+**data** | - | any | -
+**videoId** | - | string | -
+**phase** | - | string | -
+**onVideoClick** | - | boolean | -
+**autoPlay** | - | () => void | -
