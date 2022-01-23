@@ -46,9 +46,7 @@ Property | Description | Type | Default
 
 ------
 
-**DescriptionFace**
-**ProvenanceFace**
-**VideoInfoFace**
+**DescriptionFace** | **ProvenanceFace** | **VideoInfoFace**
 
 Property | Description | Type | Default
 --- | --- | --- | ---
