@@ -29,13 +29,6 @@ Property | Description | Type | Default
 **onImageClick** | Callback when click image | () => void | -
 **isEdition** | Set true if is Edition Clip Card | boolean | -
 
-------
-
-**DescriptionFace**,  **ProvenanceFace**,  **VideoInfoFace**
-
-Property | Description | Type | Default
---- | --- | --- | ---
-**data** | Clip card data | any | -
 
 ------
 
@@ -48,3 +41,15 @@ Property | Description | Type | Default
 **phase** | Set phase for cube | `creating | minting | final | preview | detail | medium | outline` | -
 **onVideoClick** | Callback when click video | boolean | -
 **autoPlay** | Determines whether the video starts automatically or not | () => void | -
+
+```Phase: creating | minting | final | preview | detail | medium | outline```
+
+------
+
+**DescriptionFace**
+**ProvenanceFace**
+**VideoInfoFace**
+
+Property | Description | Type | Default
+--- | --- | --- | ---
+**data** | Clip card data | any | -
