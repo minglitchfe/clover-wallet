@@ -8,7 +8,7 @@ Property | Description | Type | Default
 **data** | Clip card data | any | -
 **z** | Set zIndex for cube | string | -
 **videoId** | The id for video | string | -
-**phase** | Set phase for cube | `creating | minting | final | preview | detail | medium | outline` | -
+**phase** | Set phase for cube | ```creating | minting | final | preview | detail | medium | outline``` | -
 **width** | Width for cube | string | -
 **height** | Height for cube | string | -
 **autoPlay** | Determines whether the video starts automatically or not | boolean | -
